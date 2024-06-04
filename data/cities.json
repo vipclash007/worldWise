@@ -1,0 +1,78 @@
+{
+  "cities": [
+    {
+      "cityName": "Lisbon",
+      "country": "Portugal",
+      "emoji": "🇵🇹",
+      "date": "2027-10-31T15:59:59.138Z",
+      "notes": "My favorite city so far!",
+      "position": {
+        "lat": 38.727881642324164,
+        "lng": -9.140900099907554
+      },
+      "id": "73930385",
+      "flagUrl": "https://upload.wikimedia.org/wikipedia/commons/5/5c/Flag_of_Portugal.svg"
+    },
+    {
+      "cityName": "Berlin",
+      "country": "Germany",
+      "emoji": "🇩🇪",
+      "date": "2027-02-12T09:24:11.863Z",
+      "notes": "Amazing 😃",
+      "position": {
+        "lat": 52.53586782505711,
+        "lng": 13.376933665713324
+      },
+      "id": "98443197",
+      "flagUrl": "https://upload.wikimedia.org/wikipedia/commons/b/ba/Flag_of_Germany.svg"
+    },
+    {
+      "id": "76a5",
+      "cityName": "Paris",
+      "country": "France",
+      "emoji": "🇫🇷",
+      "date": "2024-05-14T19:11:41.679Z",
+      "notes": "kh",
+      "position": {
+        "lat": "48.84500679385527",
+        "lng": "2.356800705391318"
+      }
+    },
+    {
+      "id": "7610",
+      "cityName": "Cape Town",
+      "country": "South Africa",
+      "emoji": "🇿🇦",
+      "date": "2024-05-15T10:20:08.152Z",
+      "notes": "ikih",
+      "position": {
+        "lat": "-33.93463917016748",
+        "lng": "18.429565429687504"
+      }
+    },
+    {
+      "id": "c4ac",
+      "cityName": "Lucillo",
+      "country": "Spain",
+      "emoji": "🇪🇸",
+      "date": "2024-05-15T19:35:08.839Z",
+      "notes": "hihih",
+      "position": {
+        "lat": "42.35002013417556",
+        "lng": "-6.35009765625"
+      }
+    },
+    {
+      "id": "f242",
+      "cityName": "Caspuenas",
+      "country": "Spain",
+      "emoji": "🇪🇸",
+      "date": "2024-06-04T11:19:06.739Z",
+      "notes": "jjj",
+      "position": {
+        "lat": "40.71103855291724",
+        "lng": "-2.9882812500000004"
+      }
+    }
+  ]
+}
